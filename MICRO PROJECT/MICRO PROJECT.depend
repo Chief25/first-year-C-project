@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590916531 source:c:\users\chief\desktop\micro project\main.c
+	<conio.h>
+	<stdio.h>
+	<string.h>
+
