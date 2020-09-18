@@ -3,7 +3,7 @@
 #include<string.h>
 struct student
 {
-    char name[20],course_code[20],subjects[10][10];
+    char name[20],course_code[20],subjects[10][10]; //string litreal on subjects
     int roll_no,marks[2000];
 };
 void main()
